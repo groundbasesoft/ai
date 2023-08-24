@@ -52,5 +52,8 @@
     "singleQuote": true,
     "arrowParens": "avoid",
     "trailingComma": "none"
+  },
+  "dependencies": {
+    "ai": "workspace:^"
   }
 }
